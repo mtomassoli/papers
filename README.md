@@ -17,3 +17,7 @@ This is a tutorial I wrote to solidify my understanding of basic *Information Th
 #### matrixcalculus.pdf
 
 This is a tutorial about *Matrix Calculus* presenting Magnus and Neudecker's approach to Matrix Differential Calculus.
+
+#### tensor_diff_calc.pdf
+
+This is a tutorial about a novel approach to *Matrix Calculus* using *Tensors* which intends to be a *simplification* (at least on a conceptual level) of the approach reviewed in matrixcalculus.pdf.
