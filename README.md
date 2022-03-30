@@ -4,7 +4,9 @@
 
 This is a full book about *Hacking*. You need to know *assembly* and be somewhat comfortable with kernel debuggers and disassemblers. I try to explain everything from scratch except for assembly (because many tutorials about it are already available).
 
-You can find the original posts the book is a compilation of on [my site](http://expdev-kiuhnm.rhcloud.com/).
+~~You can find the original posts the book is a compilation of on [my site](http://expdev-kiuhnm.rhcloud.com/).~~
+
+***Update***: The website is down, but all the material is finally available [here](https://github.com/mtomassoli/expdev).
 
 #### backprop.pdf (*backpropagation*)
 
